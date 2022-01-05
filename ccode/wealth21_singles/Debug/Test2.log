@@ -1,0 +1,202 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Test_proj_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  wealth21_Singles.c
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(351): error C2065: 'clock_t': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(351): error C2146: syntax error: missing ';' before identifier 'start'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(351): error C2065: 'start': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(351): error C2065: 'end': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(358): error C2065: 'FILE': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(358): error C2065: 'parameterP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(358): warning C4552: '*': result of expression not used
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(364): warning C4013: 'strcpy' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(391): error C2065: 'start': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(391): warning C4013: 'clock' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(399): warning C4013: 'printf' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(408): warning C4013: 'strcat' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(408): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(408): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(409): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(409): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(410): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(410): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(411): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(411): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(412): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(412): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(413): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(413): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(414): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(414): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(415): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(415): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(416): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(416): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(417): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(417): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(418): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(418): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(419): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(419): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(420): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(420): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(421): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(421): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(422): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(422): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(441): error C2065: 'parameterP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(441): warning C4013: 'fopen' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(442): warning C4013: 'fprintf' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(442): error C2065: 'parameterP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(462): warning C4013: 'fclose' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(462): error C2065: 'parameterP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(535): warning C4013: 'ceil' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(570): warning C4013: 'fflush' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(570): error C2065: 'stdout': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(574): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(574): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(575): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(575): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(576): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(576): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(578): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(578): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(579): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(579): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(580): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(580): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(581): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(581): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(582): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(582): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(583): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(583): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(608): warning C4013: 'calloc' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(630): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(630): warning C4024: 'gau5read': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(723): warning C4013: 'free' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(732): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(732): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(733): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(733): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(734): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(734): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(735): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(735): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(736): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(736): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(737): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(737): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(738): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(738): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(739): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(739): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(740): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(740): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(741): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(741): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(742): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(742): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(743): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(743): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(744): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(744): warning C4024: 'gau5write': different types for formal and actual parameter 1
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(746): error C2065: 'end': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(747): error C2065: 'end': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(747): error C2065: 'start': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(747): error C2065: 'CLOCKS_PER_SEC': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(748): error C2065: 'end': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(748): error C2065: 'start': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(748): error C2065: 'CLOCKS_PER_SEC': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(764): error C2065: 'FILE': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(764): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(764): warning C4552: '*': result of expression not used
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(772): warning C4013: 'pow' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(772): warning C4013: 'sqrt' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(823): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(827): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(834): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(841): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(844): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(845): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(849): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(854): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(859): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(862): error C2065: 'cashP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1037): warning C4013: 'exp' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1048): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1102): warning C4013: 'log' undefined; assuming extern returning int
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1320): error C2065: 'FILE': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1320): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1320): warning C4552: '*': result of expression not used
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1324): error C2065: 'FILE': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1324): error C2065: 'valueFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1324): warning C4552: '*': result of expression not used
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1325): error C2065: 'FILE': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1325): error C2065: 'consumFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1325): warning C4552: '*': result of expression not used
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1326): error C2065: 'FILE': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1326): error C2065: 'beqFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1326): warning C4552: '*': result of expression not used
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1329): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1337): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1339): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1343): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1347): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1357): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1359): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1363): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1368): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1380): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1382): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1388): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1393): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1402): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1404): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1408): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1410): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1419): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1421): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1425): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1430): error C2065: 'valueFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1431): error C2065: 'consumFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1432): error C2065: 'beqFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1449): error C2065: 'valueFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1450): error C2065: 'consumFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1451): error C2065: 'beqFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1454): error C2065: 'valueFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1455): error C2065: 'consumFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1456): error C2065: 'beqFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1459): error C2065: 'valueFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1460): error C2065: 'consumFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1461): error C2065: 'beqFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1468): error C2065: 'valueFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1469): error C2065: 'consumFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1470): error C2065: 'beqFP': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1475): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1480): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1482): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1484): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1487): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1492): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1494): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1496): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1498): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1504): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1506): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1508): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1510): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1515): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1517): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1519): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1522): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1527): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1529): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1531): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1534): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1538): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1540): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1542): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1546): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1548): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1551): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1556): error C2065: 'fp': undeclared identifier
+c:\wealth_singles\ccode\wealth21_singles\wealth21_singles.c(1556): fatal error C1003: error count exceeds 100; stopping compilation

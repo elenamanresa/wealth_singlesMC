@@ -1,0 +1,5 @@
+﻿  wealth21_Singles.c
+c:\wealth_singles - copy\ccode\wealth21_singles\wealth21_singles.c(387): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+c:\wealth_singles - copy\ccode\wealth21_singles\wealth21_singles.c(2550): warning C4018: '<': signed/unsigned mismatch
+  test1.vcxproj -> C:\wealth_singles - Copy\ccode\wealth21_singles\test1\x64\Debug\test1.exe
